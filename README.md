@@ -1,6 +1,6 @@
-# Hotel-website
+# Hotel-website deign by Gaurav Tripathi
 Website for hotel built on HTML, CSS and JavaScript <br>
-Checkout Demo [Here](https://hotel-demo-proj.netlify.app/)
+Checkout Demo [Here](https://gauravias.github.io/hotel-/)
 
 ### ABSTRACT
 
